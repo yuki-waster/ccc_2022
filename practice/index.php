@@ -10,5 +10,10 @@
     <header>
         <h1>練習だよーん</h1>
     </header>
+    <div class="main">
+        取り合えず自分用のGithubリポジトリを作りました。
+        使い方はまだわかりません。
+        こちらからは以上です。
+    </div>
 </body>
 </html>
